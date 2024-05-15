@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/errors v0.21.0
 	github.com/go-openapi/runtime v0.27.1
 	github.com/go-openapi/strfmt v0.22.0
-	github.com/go-openapi/swag v0.22.9
+	github.com/go-openapi/swag v0.23.0
 	github.com/go-openapi/validate v0.22.6
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible
 	github.com/kat-co/vala v0.0.0-20170210184112-42e1d8b61f12
@@ -25,7 +25,7 @@ require (
 	github.com/rubenv/sql-migrate v1.6.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/subosito/gotenv v1.6.0
 	github.com/volatiletech/null/v8 v8.1.2
 	github.com/volatiletech/randomize v0.0.1
@@ -106,7 +106,7 @@ require (
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	github.com/volatiletech/inflect v0.0.1 // indirect
